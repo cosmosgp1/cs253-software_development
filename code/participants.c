@@ -14,30 +14,32 @@
 // | Main |
 // +------+
 
-int 
+int
 main (int argc, char *argv[])
 {
   int i = 0;
 
   printf ("%02d: Kim Tracy\n", ++i);
-  
+
   printf ("%02d: Rui Cao\n", ++i);
-  
+
   printf ("%02d: Noah Jett\n", ++i);
-    
+
   printf ("%02d: Ryan Ozelie\n", ++i);
 
   printf ("%02d: Wenting Zhao\n", ++i);
-  
+
   printf ("%02d: Xiao Yang\n", ++i);
-  
+
   printf ("%02d: Andrew Posdzy\n", ++i);
-  
+
   printf ("%02d: Eva Nautiyal\n", ++i);
-  
+
   printf ("%02d: Mark Siegel\n", ++i);
 
+  printf ("%02d: Maisha Rumelia Rahman\n", ++i);
+
   printf ("There are %i participants.\n", i);
-  
+
   return 0;
 } // main
