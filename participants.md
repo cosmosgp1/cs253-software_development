@@ -4,8 +4,6 @@
 
 Andrew Posadzy
 
-Jasmine White
-
 Kim Tracy
 
 Maisha Rumelia Rahman
