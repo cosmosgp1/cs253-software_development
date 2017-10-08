@@ -4,6 +4,8 @@
 
 Andrew Posadzy
 
+Jasmine White
+
 Kim Tracy
 
 Rui Cao
