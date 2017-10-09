@@ -4,6 +4,8 @@
 
 Andrew Posadzy
 
+Blake Tempel
+
 Jasmine White
 
 Kim Tracy
